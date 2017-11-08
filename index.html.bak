@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>老白果园欢迎您！</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="Agro World  Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android  Compatible web template, 
+Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
+<!-- 最新版本的 Bootstrap 核心 CSS 文件 -->
+<link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />	
+<link href="css/bai.css" rel="stylesheet" type="text/css" media="all" />
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script type="text/javascript" src="http://cdn.webfont.youziku.com/wwwroot/js/wf/youziku.api.min.js"></script>
+<!-- Custom Theme files -->
+<!--theme-style-->
+
+<link rel="shortcut icon" href="favicon.ico" />
+<link rel="bookmark"href="favicon.ico" />
+<!--//theme-style-->
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!---->
+<script src="js/jquery.chocolat.js"></script>
+		<link rel="stylesheet" href="css/chocolat.css" type="text/css" media="screen" charset="utf-8">
+		<!--light-box-files -->
+		<script type="text/javascript" charset="utf-8">
+		$(function() {
+			$('.gallery-grids a').Chocolat();
+		});
+		</script>
+		
+<!--moving-->
+<script type="text/javascript" src="js/move-top.js"></script>
+<script type="text/javascript" src="js/easing.js"></script>
+				<script type="text/javascript">
+					jQuery(document).ready(function($) {
+						$(".scroll").click(function(event){		
+							event.preventDefault();
+							$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
+						});
+					});
+				</script>
+				 <script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=tpnzGL3MNafTx8pzsZGfahIhkgBHKI6B"></script>
+  
+
+</head>
+<body>
+
+<!--header-->
+<div class="header">
+	<div class="container">
+		<div class="logo">
+		<h1><a href="index.html">
+			<img src="images/bai.png" alt="" width="200">
+		</a></h1>
+		</div>
+		<div class="top-nav">
+			<span class="menu"><img src="images/menu.png" alt=""> </span>
+				<ul>
+					<li class="active"><a href="index.html" class="scroll">首页</a></li>
+					<li><a href="#about" class="scroll">关于</a></li>
+					
+					<li><a href="#gallery" class="scroll">瞧一瞧</a></li>
+					<li><a href="#team" class="scroll">原产地</a></li>
+					<li><a href="#contact" class="scroll">联系我们</a></li>
+					<li><a href="../wordpress/" class="scroll">WordPress</a></li>
+				</ul>
+						<!--script-->
+					<script>
+						$("span.menu").click(function(){
+							$(".top-nav ul").slideToggle(500, function(){
+							});
+						});
+				</script>				
+		</div>
+		
+	</div>
+<!---->
+</div>
+
+	<div class="container">
+		<!--content-top-->
+		<div class="content-top" >
+			<div class="content-top1">
+			  	<div class=" col-sm-4 grid-top">
+					<div class="top-grid">
+					 <i class="glyphicon glyphicon-leaf"></i>
+					 
+						<h3>昼夜温差大</h3>
+						<p> 真正的香甜可口</p>
+					</div>
+					 <i class="arrow"></i>
+				 	<i class="arrow2"> </i>
+				</div>
+				 	<div class=" col-sm-4 grid-top">
+					<div class="top-grid">
+					 <i class="glyphicon glyphicon-cog"></i>
+					 
+						<h3>原生态</h3>
+						<p>和大自然零距离接触</p>
+				</div>
+				 <i class="arrow"></i>
+				 <i class="arrow2"> </i>
+				</div>
+				 	<div class=" col-sm-4 grid-top">
+					<div class="top-grid">
+					 <i  class="glyphicon glyphicon-time"></i>
+					 
+						<h3>浑然天成</h3>
+						<p>遵循自然规律</p>
+				</div>
+				 <i class="arrow"></i>
+				 <i class="arrow2"> </i>
+				</div>
+			<div class="clearfix"> </div>
+		</div>
+		</div>
+		<!--//content-top-->
+		
+</div>
+<div class="content-middle" id="about">
+	<div class="container">
+		<div class="content-mid">
+			<h3>告别城市的喧嚣，
+让你和大自然来个亲密接触 </h3>
+			<h4>园种草 草养畜 畜促园</h4>
+
+			<label> </label>
+		</div>
+		<div class="content-mid2">
+			<div class="col-sm-4 content-mid3">
+				<img src="apple_img/huanghe2.jpg" alt="" class="img-responsive">
+				<h5>黄河灌溉</h5>
+				<p><st>渠</st>道宽，渠道长，黄水流来多打粮，旱地变水田，碱地能生产，毛主席领导开渠引黄水，苹果从此变了样。</p>
+			</div>
+			<div class="col-sm-4 content-mid3">
+				<img src="apple_img/sanyecao.png" alt="" class="img-responsive">
+				<h5>三叶草保湿</h5>
+				<p><st>三</st>叶草为优良牧草，含丰富的蛋白质和矿物质，抗寒耐热，在酸性和碱性土壤上均能适应，是本属植物中在我国很有推广前途的种。作为绿肥、堤岸防护草种、草坪装饰，以及蜜源和药材等用。</p>
+			</div>
+			<div class="col-sm-4 content-mid3">
+				<img src="apple_img/yang.jpg" alt="" class="img-responsive">
+				<h5>自家羊粪加肥</h5>
+				<p><st>羊</st>粪尿发酵后形成的有机肥中含有丰富的有机质和氮磷钾等养分，是家畜种含养分最高的肥料。</p>
+			</div>
+			<div class="clearfix"> </div>
+		</div>
+	</div>
+</div>
+
+	<div class="gallery" id="gallery">
+
+			<div class="gallery-top ">
+				<h3>瞧一瞧<h4>多喜人</h4></h3>
+						<label> </label>
+			</div>
+			<div class="gallery-bottom">
+				<div class="gallery-grids">
+					<div class="col-sm-3 gallery-left">
+						<div class="g-1">	
+							<a rel="title" class="b-link-stripe b-animate-go  thickbox"  href="apple_img/app(9).png" ><img  src="apple_img/app(9).png" alt=""/></a>						
+						</div>
+						<div class="g-2">	
+							<a rel="title" class="b-link-stripe b-animate-go  thickbox"  href="apple_img/app(2).png" ><img  src="apple_img/app(2).png" alt=""/></a>
+						</div>
+					</div>
+					<div class="col-sm-6  gallery-left1">
+						<a rel="title" class="b-link-stripe b-animate-go  thickbox"  href="http://img.zhisheji.com/FlgeI64qgye5rebQ7H6HMgDK-rhV?imageMogr2/quality/90" ><img  src="http://img.zhisheji.com/FlgeI64qgye5rebQ7H6HMgDK-rhV?imageMogr2/quality/90" alt="" width="800" height="307" /></a>
+						<div class="g-5">	
+							<div class="col-sm-6 g-3">	
+								<a rel="title" class="b-link-stripe b-animate-go  thickbox"  href="apple_img/app(3).png" ><img src="apple_img/app(3).png" alt=""/></a>
+							</div>
+							<div class="col-sm-6 g-4">	
+								<a rel="title" class="b-link-stripe b-animate-go  thickbox"  href="apple_img/app(4).png" ><img  src="apple_img/app(4).png" alt=""/></a>
+							</div>
+							<div class="clearfix"></div>							
+						</div>
+						<!-- <a rel="title" class="b-link-stripe b-animate-go  thickbox"  href="apple_img/app(5).png" ><img  src="apple_img/app(5).png" alt=""/></a> -->
+					</div>
+					<div class="col-sm-3  gallery-left2">
+						<div class="g-6">
+						<a rel="title" class="b-link-stripe b-animate-go  thickbox"  href="apple_img/app(6).png" ><img  src="apple_img/app(6).png" alt=""/></a>
+						</div>
+						<div class="g-7">	
+							<a rel="title" class="b-link-stripe b-animate-go  thickbox"  href="apple_img/app(7).png" ><img  src="apple_img/app(7).png" alt=""/></a>
+						</div>
+					</div>
+					<div class="clearfix"> </div>					
+				</div>
+			</div>
+		
+	</div>
+
+
+<!--team-->
+	<div class="team" id="team">
+		<div class="container">
+			   <div class="team-main">
+					<div class="team-top">
+							<h3>原产地 <h4>临猗 · 山西</h4></h3>
+				<label></label>
+
+
+						<div style="width:auto;height:300px;border:#ccc solid 1px;font-size:12px;margin: 20px auto" id="map" ></div>
+    
+  <script type="text/javascript">
+    //创建和初始化地图函数：
+    function initMap(){
+      createMap();//创建地图
+      setMapEvent();//设置地图事件
+      addMapControl();//向地图添加控件
+      addMapOverlay();//向地图添加覆盖物
+    }
+    function createMap(){ 
+      map = new BMap.Map("map"); 
+      map.centerAndZoom(new BMap.Point(110.952566,35.086097),11);
+    }
+    function setMapEvent(){
+      map.enableScrollWheelZoom();
+      map.enableKeyboard();
+      map.enableDragging();
+      map.enableDoubleClickZoom()
+    }
+    function addClickHandler(target,window){
+      target.addEventListener("click",function(){
+        target.openInfoWindow(window);
+      });
+    }
+    function addMapOverlay(){
+      var markers = [
+        {content:"红富士苹果原产地",title:"中华果都临猗",imageOffset: {width:0,height:3},position:{lat:35.212653,lng:110.744447}}
+      ];
+      for(var index = 0; index < markers.length; index++ ){
+        var point = new BMap.Point(markers[index].position.lng,markers[index].position.lat);
+        var marker = new BMap.Marker(point,{icon:new BMap.Icon("http://api.map.baidu.com/lbsapi/createmap/images/icon.png",new BMap.Size(20,25),{
+          imageOffset: new BMap.Size(markers[index].imageOffset.width,markers[index].imageOffset.height)
+        })});
+        var label = new BMap.Label(markers[index].title,{offset: new BMap.Size(25,5)});
+        var opts = {
+          width: 200,
+          title: markers[index].title,
+          enableMessage: false
+        };
+        var infoWindow = new BMap.InfoWindow(markers[index].content,opts);
+        marker.setLabel(label);
+        addClickHandler(marker,infoWindow);
+        map.addOverlay(marker);
+      };
+    }
+    //向地图添加控件
+    function addMapControl(){
+      var scaleControl = new BMap.ScaleControl({anchor:BMAP_ANCHOR_BOTTOM_LEFT});
+      scaleControl.setUnit(BMAP_UNIT_IMPERIAL);
+      map.addControl(scaleControl);
+      var navControl = new BMap.NavigationControl({anchor:BMAP_ANCHOR_TOP_LEFT,type:BMAP_NAVIGATION_CONTROL_LARGE});
+      map.addControl(navControl);
+      var overviewControl = new BMap.OverviewMapControl({anchor:BMAP_ANCHOR_BOTTOM_RIGHT,isOpen:true});
+      map.addControl(overviewControl);
+    }
+    var map;
+      initMap();
+  </script>
+  <p class="baike">
+  	<st>临</st> 猗县是传统的农业大县，为“全国水果十强县”、山西省商品粮和商品棉生产基地。辖区商品粮、商品棉分别占全省总量的1/7和1/8；以梨枣、石榴为主的林果业快速发展。全县有小麦、棉花、林果三大生产基地，主要生产小麦、棉花、苹果、梨枣、江石榴等。临猗特产酱玉瓜曾获得1915年巴拿马博览会银奖。2013全年粮食播种面积91.6万亩，总产6.3亿斤，增长2%；苹果总产35.3亿斤，增长1%，销售收入42.36亿元，增长21%；鲜枣总产3.98亿斤，虽受灾减产，销售收入仍达8.29亿元。
+  </p>
+</div>
+
+	<!--//team-->
+	<div class="contact m20" id="contact" >
+		<div class="container">
+			<div class="contact-top">
+				<h3>联系我们</h3>
+				<label></label>
+			
+
+			</div>
+			<div class="col-md-8 contact-form">
+			<p><st>微</st>信：15903484217</p>
+			<p>QQ：954785790</p>
+			<p>电话：15903484217</p>
+			<p>现摘地址：山西省运城市临猗县北景乡北景村</p>
+
+			</div>
+
+		</div>
+	</div>
+
+<!--footer-->
+<div class="footer">
+	<div class="container">
+
+		<div class="footer-top2">
+			<p >&copy; 老白果园 红富士Biiu.me 版权所有 <a target="_blank" href="http://www.miitbeian.gov.cn/">晋ICP备17004090号</a></p>
+		</div>
+		
+	</div>
+	<script type="text/javascript">
+						$(document).ready(function() {
+							/*
+							var defaults = {
+					  			containerID: 'toTop', // fading element id
+								containerHoverID: 'toTopHover', // fading element hover id
+								scrollSpeed: 1200,
+								easingType: 'linear' 
+					 		};
+							*/
+							
+							$().UItoTop({ easingType: 'easeOutQuart' });
+							
+						});
+					</script>
+				<a href="#" id="toTop" style="display: block;"> <span id="toTopHover" style="opacity: 1;"> </span></a>
+
+
+</div>
+<script type="text/javascript">
+   $youziku.load("body", "d22d08b4632040ecae6ab964f8ce0162", "CTBiaoSongSJ");
+   /*$youziku.load("#id1,.class1,h1", "d22d08b4632040ecae6ab964f8ce0162", "CTBiaoSongSJ");*/
+   /*．．．*/
+   $youziku.draw();
+</script>
+</body>
+</html>
